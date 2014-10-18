@@ -3,8 +3,10 @@ package git_demo;
 public class Hello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("ooooo");
+		System.out.println("???");
+		System.out.println("@@@");
+		System.out.println("³É¹¦ÁË£¬ÎûÎû");
 	}
 
 }
