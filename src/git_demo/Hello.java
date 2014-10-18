@@ -6,7 +6,9 @@ public class Hello {
 		System.out.println("ooooo");
 		System.out.println("???");
 		System.out.println("@@@");
-		System.out.println("怎么了这是");//哈哈儿2
-	}
 
+		System.out.println("怎么了这是");//哈哈儿2
+
+		System.out.println("怎么了这是");//ok?
+	}
 }
